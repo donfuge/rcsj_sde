@@ -1,0 +1,6 @@
+*.pdf
+*.npz
+*.png
+tmp/
+*.egg-info/
+__pycache__/
