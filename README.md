@@ -58,20 +58,25 @@ The functions `simu.simulation_full()` and `simu.simulation_voltage()` run an ex
 If you use this code for a scientific publication, please cite our paper:
 
 ```
-@article{Haller2023,
-  author   = "R. Haller, M. Osterwalder, G. Fülöp, J. Ridderbos, M. Jung, and C. Schönenberger",
-  title    = "AC Josephson effect in a gate-tunable Cd3As2 nanowire superconducting weak link",
-  journal  = "",
-  year     = 2023,
-  volume   = "",
-  number   = "",
-  pages    = "",
+@article{PhysRevB.108.094514,
+  title = {ac Josephson effect in a gate-tunable ${\mathrm{Cd}}_{3}{\mathrm{As}}_{2}$ nanowire superconducting weak link},
+  author = {Haller, R. and Osterwalder, M. and F\"ul\"op, G. and Ridderbos, J. and Jung, M. and Sch\"onenberger, C.},
+  journal = {Phys. Rev. B},
+  volume = {108},
+  issue = {9},
+  pages = {094514},
+  numpages = {8},
+  year = {2023},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.108.094514},
+  url = {https://link.aps.org/doi/10.1103/PhysRevB.108.094514}
 }
 ```
 
 ## References
 
-[1] Our paper on arXiv: https://arxiv.org/abs/2305.19996
+[1] [Our paper on arXiv](https://arxiv.org/abs/2305.19996)
 
-[2] Under review
+[2] [Phys. Rev. B 108, 094514 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.094514)
 
